@@ -37,7 +37,13 @@ Design and program an application based on the following requirements:
 ![ClassDiagram](https://github.com/TerryIoannou/C-Threading/assets/91316685/148912d3-72a6-49bc-a81f-36f0719a0aba)
 
 **Test Plan:**
-
+1. Objective: To ensure all functionalities of the Earth Task Manager are working as expected, including task creation, editing, deletion, visualization, and performance under concurrent operations.
+2. Test Environment: Tests will be conducted on a development machine with the C# .NET 8.0 environment. Ensure the machine is configured with necessary dependencies like .NET MAUI for GUI and any APIs used by the application.
+3. Test Data: Specific test data will be created for each test case to simulate realistic usage scenarios.
+4. Tools: NUnit for unit testing, Moq for mocking database and API interactions, and any necessary tools for monitoring threading and performance.
+5. Execution Plan: Tests will be run sequentially for CRUD operations and concurrently for threading tests to verify the application’s response under load.
+6. Success Criteria: All tests must pass with all functionalities behaving as expected without errors and within acceptable performance thresholds.
+   
 **Test Data:**
 
 | Test Case ID | Input | Expected Output |
