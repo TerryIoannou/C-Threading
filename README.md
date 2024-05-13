@@ -44,10 +44,12 @@ Test Environment
 - Platform: Windows 10 or higher with .NET 8.0
 - Tools: NUnit for unit testing, Moq for mocking, Visual Studio 2022 for development and testing.
 - Database: Simulated environment with at least 100,000 records.
+  
 Scope
 - Functional Testing: Verify that each component behaves as expected in isolation.
 - Integration Testing: Ensure that components work together as expected.
 - Concurrency Testing: Test the application’s performance and stability under load using the MultiThreadingManager.
+  
 Success Criteria
 - All tests pass without critical errors, and performance metrics are within acceptable limits as defined in the requirements.
 
