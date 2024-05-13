@@ -42,11 +42,11 @@ Design and program an application based on the following requirements:
 
 | Test Case ID | Input | Expected Output |
 |--------------|-------|-----------------|
-| 1            | [Input] | [Expected Output] |
-| 2            | [Input] | [Expected Output] |
-| 3            | [Input] | [Expected Output] |
-| 4            | [Input] | [Expected Output] |
-| 5            | [Input] | [Expected Output] |
+| 1            | Provide task details (e.g., description, initial position)               | ask is created with correct parameters and appears in the orbit visualization             |
+| 2            | Modifications to an existing task (e.g., changing description or status) | Task details are updated in the database and changes are reflected in the GUI             |
+| 3            | Request to delete a specific task                                        | Task is removed from the database and no longer visible in the GUI or orbit visualization |
+| 4            | Navigate to the visualization section after multiple tasks are created   | All tasks are correctly visualized on Earth’s orbit with accurate positions               |
+| 5            | Simultaneous creation, editing, and deletion of multiple tasks           | All operations are handled without errors, and system performance remains stable          |
 
 **Test Cases:**
 
