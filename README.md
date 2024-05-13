@@ -37,6 +37,7 @@ Design and program an application based on the following requirements:
 ![ClassDiagram](https://github.com/TerryIoannou/C-Threading/assets/91316685/148912d3-72a6-49bc-a81f-36f0719a0aba)
 
 **Test Plan:**
+
 Objective
 - Validate the functionality, integration, and performance of the Earth Task Manager application, ensuring that all components interact correctly and perform optimally under various scenarios.
 
