@@ -58,11 +58,15 @@ Success Criteria
 
 | Test Case ID | Input | Expected Output |
 |--------------|-------|-----------------|
-| 1            | Provide task details (e.g., description, initial position)               | ask is created with correct parameters and appears in the orbit visualization             |
-| 2            | Modifications to an existing task (e.g., changing description or status) | Task details are updated in the database and changes are reflected in the GUI             |
-| 3            | Request to delete a specific task                                        | Task is removed from the database and no longer visible in the GUI or orbit visualization |
-| 4            | Navigate to the visualization section after multiple tasks are created   | All tasks are correctly visualized on Earth’s orbit with accurate positions               |
-| 5            | Simultaneous creation, editing, and deletion of multiple tasks           | All operations are handled without errors, and system performance remains stable          |
+| 1            | Task details (Description: "Track satellite debris", Status: "Active", Date: DateTime.Now)               | Task object is created and added to the Earth object. The GUI displays the task in orbit around Earth             |
+| 2            | Existing Task ID and new details (Description: "Track satellite debris", Status: "Completed") | Task details are updated in the database. The GUI updates to reflect the change             |
+| 3            | Task ID of an existing task                                        | Task is deleted from the database and its representation is removed from the GUI and Earth's visualization |
+| 4            | Load the application with multiple tasks   | The GUI uses DataVisualization to plot all tasks correctly on Earth’s orbit based on their current data               |
+| 5            | Concurrent execution commands to create, edit, and delete tasks           |  `MultiThreadingManager` manages all tasks without deadlocks or data loss, and the GUI reflects all changes in real-time          |
+| 6            | A batch of tasks for deletion and creation           |  `BatchProcessing` efficiently processes all tasks in the batch, ensuring database and GUI consistency          |
+| 7            | Fetch data command           |  `API` fetches data which is then displayed in the GUI or affects tasks (e.g., updates task status based on external data)          |
+
+
 
 **Test Cases:**
 
