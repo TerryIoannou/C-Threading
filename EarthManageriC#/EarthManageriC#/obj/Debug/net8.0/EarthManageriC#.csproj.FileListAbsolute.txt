@@ -1,0 +1,14 @@
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\obj\Debug\net8.0\EarthManageriC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\obj\Debug\net8.0\EarthManageriC#.AssemblyInfoInputs.cache
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\obj\Debug\net8.0\EarthManageriC#.AssemblyInfo.cs
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\obj\Debug\net8.0\EarthManageriC#.csproj.CoreCompileInputs.cache
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\bin\Debug\net8.0\EarthManageriC#.exe
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\bin\Debug\net8.0\EarthManageriC#.deps.json
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\bin\Debug\net8.0\EarthManageriC#.runtimeconfig.json
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\bin\Debug\net8.0\EarthManageriC#.dll
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\bin\Debug\net8.0\EarthManageriC#.pdb
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\obj\Debug\net8.0\EarthManageriC#.dll
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\obj\Debug\net8.0\refint\EarthManageriC#.dll
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\obj\Debug\net8.0\EarthManageriC#.pdb
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\obj\Debug\net8.0\EarthManageriC#.genruntimeconfig.cache
+C:\Users\terry\OneDrive\Desktop\Year 3\Period 3\C#Threading\ForingX\earthTestTryOne\EarthManageriC#\EarthManageriC#\obj\Debug\net8.0\ref\EarthManageriC#.dll
